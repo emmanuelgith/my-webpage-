@@ -1,0 +1,13 @@
+bool is prime = true
+for ( int i = 2; i< num; i ++)
+{
+
+If (num % i ==0)
+
+}
+{
+Is prime = false;
+
+}
+
+print (_ _)
